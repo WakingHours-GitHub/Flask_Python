@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Flask upload with Dropzone example</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dropzone.css') }}">
+
+    <style>
+        h1 {
+            align-items: center;
+            align-self: center;
+            align-content: center;
+            text-align: center;
+
+            margin: 0 auto;
+        }
+        box {
+            align-items: center;
+            align-self: center;
+            align-content: center;
+            text-align: center;
+            vertical-align: center;
+
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Object Detection Platform Based on SSD</h1>
+
+    <!-- Change action value to your upload address -->
+    <form action="{{ url_for('upload_file') }}" class="dropzone" method="POST" enctype="multipart/form-data">
+
+    </form>
+    <script src="{{ url_for('static', filename='dropzone.js') }}"></script>
+    <box> <img src="{{ url_for('fatch_image') }}"> </box>
+</body>
+
