@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7a45c5-fe0e-483d-9a69-6e157a147f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../2_template_form/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/load_file.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_camera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/load_file_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/static/dropzone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/static/dropzone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../load_file_test/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../play_video_demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +181,7 @@
       <updated>1668413016159</updated>
       <workItem from="1668413017547" duration="5968000" />
       <workItem from="1668431008255" duration="3288000" />
-      <workItem from="1668495745636" duration="6865000" />
+      <workItem from="1668495745636" duration="8688000" />
     </task>
     <servers />
   </component>
